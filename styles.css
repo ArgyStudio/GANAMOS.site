@@ -438,4 +438,5 @@ input[type="text"]:-ms-input-placeholder      { animation: placeholderBlink 1s e
   z-index: 9999;       /* Siempre por encima de todas las capas */
     filter: grayscale(30%);   
 }
+.screen::after{content:"© 2025 ArgyStudios. Todos los derechos reservados.";display:block;width:100%;text-align:center;opacity:0.5;margin-top:2rem;}
 
